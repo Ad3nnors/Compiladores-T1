@@ -38,8 +38,7 @@ Para a implementação do trabalho foi utilizado a ferramenta ANTLR (antlr.org) 
   
 O analisador pode ser executado em linha de comando (windows, mac ou linux), com DOIS ARGUMENTOS OBRIGATORIAMENTE:
   
-Argumento 1: arquivo de entrada (caminho completo)
-  
+Argumento 1: arquivo de entrada (caminho completo)<br>
 Argumento 2: arquivo de saída (caminho completo)
 
 Exemplo de como rodar o analisador:
@@ -56,8 +55,7 @@ Como resultado, seu compilador deve ler a entrada de C:\compiladorest1\casos-de-
 
 Encontram-se também nesse projeto:
   
-Os casos de teste 
-  
+Os casos de teste <br>
 O compilador automático 
 
 Todo esse conteúdo foi disponibilizado pelo professor. 
