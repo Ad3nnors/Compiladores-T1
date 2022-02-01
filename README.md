@@ -4,7 +4,7 @@ Trabalho 1 de Construção de Compiladores, matéria ministrada por professor Da
 
 Autores: 
 - Anderson H. Giacomini RA: 769720
-- Sophia S. Shuster RA: 760936
+- Sophia S. Schuster RA: 760936
 
 ## Conteúdo
 - [Descrição](#descricao)
