@@ -19,7 +19,9 @@ Autores:
 ## Descrição
 
 O trabalho 1 (T1) da disciplina consiste na implementação de um analisador léxico para a linguagem LA (Linguagem Algorítmica) desenvolvida pelo prof. Jander, no âmbito do DC/UFSCar. O analisador léxico lê um programa-fonte e produz uma lista de tokens identificados.
+  
 Em caso de erro léxico, o programa interrompe a execução e reporta o erro, indicando o primeiro símbolo onde o erro ocorreu.
+  
 Outros erros reportados são: comentário não fechado na mesma linha e cadeia não fechada na mesma linha.
 
 <div id='implementacao'>
@@ -33,8 +35,11 @@ Para a implementação do trabalho foi utilizado a ferramenta ANTLR (antlr.org) 
 ## Como rodar
 
 <strike>Após importar e compilar o projeto, será gerado uma pasta target com o arquivo .jar já com todas dependencias.</strike>
+  
 O analisador pode ser executado em linha de comando (windows, mac ou linux), com DOIS ARGUMENTOS OBRIGATORIAMENTE:
+  
 Argumento 1: arquivo de entrada (caminho completo)
+  
 Argumento 2: arquivo de saída (caminho completo)
 
 Exemplo de como rodar o analisador:
@@ -50,7 +55,9 @@ Como resultado, seu compilador deve ler a entrada de C:\compiladorest1\casos-de-
 ## Observações
 
 Encontram-se também nesse projeto:
+  
 Os casos de teste 
+  
 O compilador automático 
 
 Todo esse conteúdo foi disponibilizado pelo professor. 
